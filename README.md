@@ -1,4 +1,13 @@
-### Hi, I'm Dan
+# Hi, I'm Dan
+I'm a MEng Computer Science Student, graduating in 2022, at the [University of Bristol](https://bristol.ac.uk)
+
+I enjoy playing with new technologies, attending tech meet-ups, and cooking meals from scratch.
+
+## Contact
+- [Website](https://danjones.dev)
+- [LinkedIn](https://linkedin.com/in/danjones1618)
+- [Email](mailto:danjones.dev?subject="Hi from GitHub")
+- [CV](https://danjones.dev/cv)
 
 ![Danjones1618's GitHub stats](https://github-readme-stats.vercel.app/api?username=danjones1618&count_private=true&theme=dracula)
 
