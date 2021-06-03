@@ -2,7 +2,7 @@
 
 ![Danjones1618's GitHub stats](https://github-readme-stats.vercel.app/api?username=danjones1618&count_private=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danjones1618&layout=compact&theme=dracula&count_private)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danjones1618&layout=compact&theme=dracula&count_private&langs_count=50)
 
 
 <!--
