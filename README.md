@@ -1,6 +1,6 @@
 ### Hi, I'm Dan
 
-![Danjones1618's GitHub stats](https://github-readme-stats.vercel.app/api?username=danjones1618&count_private=true&theme=synthwave)
+![Danjones1618's GitHub stats](https://github-readme-stats.vercel.app/api?username=danjones1618&count_private=true&theme=dracula)
 
 <!--
 **danjones1618/danjones1618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
