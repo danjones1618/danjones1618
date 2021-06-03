@@ -6,7 +6,7 @@ I enjoy playing with new technologies, attending tech meet-ups, and cooking meal
 ## Contact
 - [Website](https://danjones.dev)
 - [LinkedIn](https://linkedin.com/in/danjones1618)
-- [Email](mailto:danjones.dev?subject="Hi from GitHub")
+- [Email](mailto://hello@danjones.dev?subject="Hi from GitHub")
 - [CV](https://danjones.dev/cv)
 
 ![Danjones1618's GitHub stats](https://github-readme-stats.vercel.app/api?username=danjones1618&count_private=true&theme=dracula)
