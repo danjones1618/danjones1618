@@ -2,8 +2,6 @@
 
 ![Danjones1618's GitHub stats](https://github-readme-stats.vercel.app/api?username=danjones1618&count_private=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danjones1618&layout=compact&theme=dracula&count_private&langs_count=50&exclude_repo=Unit-Converter)
-
 
 <!--
 **danjones1618/danjones1618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
